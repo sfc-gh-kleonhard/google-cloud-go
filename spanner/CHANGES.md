@@ -1,5 +1,12 @@
 # Changes
 
+## [1.40.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.39.0...spanner/v1.40.0) (2022-10-14)
+
+
+### Features
+
+* **spanner:** Update result_set.proto to return undeclared parameters in ExecuteSql API ([de4e16a](https://github.com/googleapis/google-cloud-go/commit/de4e16a498354ea7271f5b396f7cb2bb430052aa))
+
 ## [1.39.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.38.0...spanner/v1.39.0) (2022-09-21)
 
 
